@@ -1,1 +1,16 @@
-<svg width="52" height="53" viewBox="0 0 52 53" xmlns="http://www.w3.org/2000/svg"><title>check</title><g transform="translate(1 1.5)" stroke-width="2" fill="none" fill-rule="evenodd"><path stroke="#EB5424" d="M34 19L22.5 30.5 18 26"/><ellipse stroke="#000" cx="25" cy="25" rx="25" ry="25"/><ellipse stroke="#000" cx="25" cy="25" rx="18" ry="18"/></g></svg>
+ <svg viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" width="28" height="28">
+      <g fill="none" fillRule="evenodd">
+        <path
+          d="M27.368 45H2.632A2.632 2.632 0 0 1 0 42.368V17.632A2.632 2.632 0 0 1 2.632 15h24.736A2.632 2.632 0 0 1 30 17.632v24.736A2.632 2.632 0 0 1 27.368 45"
+          fill="#16214D"
+        />
+        <path
+          d="M34.868 37.5H10.132A2.632 2.632 0 0 1 7.5 34.868V10.132A2.632 2.632 0 0 1 10.132 7.5h24.736a2.632 2.632 0 0 1 2.632 2.632v24.736a2.632 2.632 0 0 1-2.632 2.632"
+          fill="#EC5424"
+        />
+        <path
+          d="M42.368 30H17.632A2.632 2.632 0 0 1 15 27.368V2.632A2.632 2.632 0 0 1 17.632 0h24.736A2.632 2.632 0 0 1 45 2.632v24.736A2.632 2.632 0 0 1 42.368 30"
+          fill="#44C7F4"
+        />
+      </g>
+    </svg>
